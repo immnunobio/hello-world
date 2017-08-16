@@ -1,1 +1,2 @@
-g="hello world"
+g = "hello world"
+print g
